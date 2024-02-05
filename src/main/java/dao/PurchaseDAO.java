@@ -3,8 +3,6 @@
  */
 package dao;
 
-import static net.courtanet.db.model.benefit.Tables.ARGUMENTAIRE;
-
 import java.sql.Connection;
 
 import model.Purchase;
